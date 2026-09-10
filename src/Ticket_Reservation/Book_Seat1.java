@@ -171,7 +171,9 @@ public class Book_Seat1 implements Runnable{
             else {
                 System.out.println("null");
             }
+          //  System.out.println("git test");
         }
     }
+
 
 }
